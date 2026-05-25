@@ -48,22 +48,12 @@
 
 ###
 
- <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/pacman-contribution-graph-dark.svg"
-  >
+<br clear="both">
 
-  <!-- Tema claro -->
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/pacman-contribution-graph.svg"
-  >
-
-  <!-- Imagem padrão -->
-  <img
-    alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/pacman-contribution-graph.svg"
-  >
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rehsanva/rehsanva/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rehsanva/rehsanva/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rehsanva/rehsanva/pacman-output/pacman-contribution-graph.svg">
 </picture>
+
 ###
