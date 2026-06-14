@@ -14,7 +14,7 @@
 
 ---
 
-## 🌟 Sobre mim
+## About me:
 
 ```javascript
 const rebeca = {
