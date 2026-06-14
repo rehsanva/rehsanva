@@ -2,7 +2,7 @@
 
 <img src="https://media.tenor.com/Z4w2Vf2kM34AAAAAC/night-sky.gif" width="100%">
 
-# ✦ ˚₊‧ 𝑹𝒆𝒃𝒆𝒄𝒂 𝑺𝒂𝒏𝒕𝒐𝒔 ‧₊˚ ✦
+#  ˚₊‧ 𝑹𝒆𝒃𝒆𝒄𝒂 𝑺𝒂𝒏𝒕𝒐𝒔 ‧₊˚ 
 
 `Estudante de Informática para Internet` 🌟 `São Paulo, Brasil`
 
@@ -20,6 +20,10 @@
 const rebeca = {
     pronouns: "ela/dela",
     country: "Brasil",
+    languages: {
+        portuguese: "Nativo",
+        english: "Estudando - Intermediário"
+    },
     studying: [
         "HTML",
         "CSS",
