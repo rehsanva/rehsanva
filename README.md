@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&pause=2000&color=2E4DE6&center=true&vCenter=true&width=650&lines=Disciplina+é+liberdade.+Compaixão+é+fortaleza.+Ter+bondade+é+ter+coragem." />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&pause=2000&color=2E4DE6&center=true&vCenter=true&width=650&lines=Disciplina+é+liberdade.;Compaixão+é+fortaleza." />
 </div>
 
 ---
